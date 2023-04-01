@@ -3,7 +3,7 @@
 
 📫 How to reach me: ainhoa.egia@icloud.com or checking my LinkedIn profile!
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/ainhoa-egia">
+  <a href="https://www.linkedin.com/in/ainhoa-egia/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
