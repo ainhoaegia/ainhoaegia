@@ -12,7 +12,7 @@
 
 ### :woman_technologist: About Me :
 
-:zap: I am a student from Basque Country. I really love new tech and how it works, thats why I am currently studying a double degree about Computer Engineering and Industrial Electronics and Automation Engineering.
+:zap: I am a student from Basque Country. I really love new tech and how it works, thats why I am currently studying a double degree about Computer Engineering and Industrial Electronics and Automation Engineering at the University of Deusto.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="100"/>
